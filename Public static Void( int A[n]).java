@@ -8,5 +8,7 @@ Public static Void( int A[n])
         Sum += A[i];
     }
         system.out.println (" Ty yeu thy ");
+        system.out.println (" Thy co anh xe om ");
     }
+
 }
